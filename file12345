@@ -1,1 +1,76 @@
 test
+----------------------------------------
+-----------------------------------------
+<settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings><settings>
+ <servers>
+  <server>
+   <!-- this id should match the id of the repo server in pom.xml -->
+   <id>nexus</id>
+   <username>admin</username>
+   <password>Apotbnm@16839!</password>
+  </server>
+ </servers>
+</settings>
